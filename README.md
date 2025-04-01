@@ -6,15 +6,19 @@ Developed a bank loan analysis project using SQL, and Power BI to explore loan a
 - <a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank_loan_Data.csv">Dataset</a>
 
 ## Questions (KPI's)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 5 states contributing to the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+- Calculate Total Loan Applications 
+- Calculate Total Funded Amount 
+- Calculate Total Received Amount 
+- Calculate Average Interest Rate 
+- Calculate Average Debt-to-Income Ratio (DTI) 
+- Calculate Good Loan Application Percentage 
+- Calculate Good Loan Applications 
+- Calculate Good Loan Funded Amount 
+- Calculate Good Loan Total Received Amount 
+- Calculate Bad Loan Application Percentage 
+- Calculate Bad Loan Applications 
+- Calculate Bad Loan Funded Amount 
+- Calculate Bad Loan Total Received Amount is 
 
 - Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank%20Dashboard.pdf">View Dashboard</a>
 
