@@ -20,7 +20,8 @@ Developed a bank loan analysis project using SQL, and Power BI to explore loan a
 - Calculate Bad Loan Funded Amount 
 - Calculate Bad Loan Total Received Amount </br> 
 
-- Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank%20Dashboard.pdf">View Dashboard</a>
+## Dashboard Interaction 
+<a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank%20Dashboard.pdf">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
