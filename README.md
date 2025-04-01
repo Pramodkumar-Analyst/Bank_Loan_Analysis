@@ -1,7 +1,7 @@
 # Bank_Loan_Analysis
 Developed a bank loan analysis project using SQL, and Power BI to explore loan approval trends, risk factors, and key financial metrics. It includes data cleaning, visualization, and insights to support data-driven decisions.
 ## Project Objective
-The primary objective of this project is to analyze banking data to gain valuable insights into customer behavior, transaction patterns, and financial performance. By leveraging SQL for data extraction, transformation, and analysis, and Power BI for data visualization, this project aims to provide a comprehensive understanding of key banking metrics such as loan performance, customer segmentation, and revenue trends.
+The primary objective of this project is to analyze banking data to gain valuable insights into customer behavior, transaction patterns, and financial performance. By leveraging SQL for data Querying and extraction Power BI for data transformation, analysis and data visualization, this project aims to provide a comprehensive understanding of key banking metrics such as loan performance, customer segmentation, and revenue trends.
 ## Dataset used
 - <a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank_loan_Data.csv">Dataset</a>
 
