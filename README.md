@@ -28,7 +28,7 @@ Developed a bank loan analysis project using SQL, and Power BI to explore loan a
 
 ![Bank Loan Dashboard](https://github.com/Pramodkumar-Analyst/icon/blob/main/Summary.png)
 ![Bank Loan Dashboard](https://github.com/Pramodkumar-Analyst/icon/blob/main/Overview.png)
-[Bank Loan Dashboard](https://github.com/Pramodkumar-Analyst/icon/blob/main/Details.png)
+![Bank Loan Dashboard](https://github.com/Pramodkumar-Analyst/icon/blob/main/Details.png)
 
 
 ## Project Insight
