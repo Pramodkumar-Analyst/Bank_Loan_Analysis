@@ -6,19 +6,19 @@ Developed a bank loan analysis project using SQL, and Power BI to explore loan a
 - <a href="https://github.com/Pramodkumar-Analyst/Bank_Loan_Analysis/blob/main/Bank_loan_Data.csv">Dataset</a>
 
 ## Questions (KPI's)
-- Calculate Total Loan Applications 
-- Calculate Total Funded Amount 
-- Calculate Total Received Amount 
-- Calculate Average Interest Rate 
-- Calculate Average Debt-to-Income Ratio (DTI) 
-- Calculate Good Loan Application Percentage 
-- Calculate Good Loan Applications 
-- Calculate Good Loan Funded Amount 
-- Calculate Good Loan Total Received Amount 
-- Calculate Bad Loan Application Percentage 
-- Calculate Bad Loan Applications 
-- Calculate Bad Loan Funded Amount 
-- Calculate Bad Loan Total Received Amount </br> 
+- Calculate Total Loan Applications. 
+- Calculate Total Funded Amount. 
+- Calculate Total Received Amount. 
+- Calculate Average Interest Rate. 
+- Calculate Average Debt-to-Income Ratio (DTI). 
+- Calculate Good Loan Application Percentage. 
+- Calculate Good Loan Applications. 
+- Calculate Good Loan Funded Amount. 
+- Calculate Good Loan Total Received Amount. 
+- Calculate Bad Loan Application Percentage. 
+- Calculate Bad Loan Applications. 
+- Calculate Bad Loan Funded Amount. 
+- Calculate Bad Loan Total Received Amount. </br> 
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
