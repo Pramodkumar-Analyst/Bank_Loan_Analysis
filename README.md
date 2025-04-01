@@ -34,11 +34,19 @@ Developed a bank loan analysis project using SQL, and Power BI to explore loan a
 
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- Total Loan Applications is 38576
+- Total Funded Amount is $435M
+- Total Received Amount is $473M
+- Average Interest Rate is 12%
+- Average Debt-to-Income Ratio (DTI) is 13.3%
+- Good Loan Application Percentage is 86.2%
+- Good Loan Applications is 33K
+- Good Loan Funded Amount is $370M
+- Good Loan Total Received Amount is $435M
+- Bad Loan Application Percentage is 13.8%
+- Bad Loan Applications is 5K
+- Bad Loan Funded Amount is $65.5M
+- Bad Loan Total Received Amount is $37.5M
 
 ## Final Conclusion:
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
