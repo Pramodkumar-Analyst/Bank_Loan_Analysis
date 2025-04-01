@@ -21,10 +21,13 @@ The primary objective of this project is to analyze banking data to gain valuabl
 - Calculate Bad Loan Total Received Amount. </br> 
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Used SQL Server For querying of bank loan transaction data.
+- Cleaned and transformed the data using the Power Query.
+- Defined key performance indicators (KPIs) such as customer growth rate, loan default rates, transaction volumes, and revenue trends.
+- Created DAX measures to calculate key metrics dynamically.
+- Applied filters and slicers to allow dynamic data exploration.
+- Developed an interactive Power BI dashboard with visualizations (bar charts, line charts, KPI cards).
+  
 
 ## Dashboard
 
